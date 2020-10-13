@@ -8,4 +8,4 @@ Software Design Patterns is Generally Reusable Solution to commonly Occured prob
 
 # Clean Code
 
-    100% Grantee ✅
+    100% ✅
