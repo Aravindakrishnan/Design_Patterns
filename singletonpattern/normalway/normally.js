@@ -1,4 +1,4 @@
-
+// Creating MessageLogger Class
 class MessageLogger {
     constructor() {
         this.logs = [];
@@ -14,4 +14,5 @@ class MessageLogger {
     }
 }
 
+// Exporting MessageLogger class
 module.exports = MessageLogger;
