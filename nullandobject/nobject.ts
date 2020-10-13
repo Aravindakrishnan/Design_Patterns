@@ -43,7 +43,7 @@ class NullUser{
 // Creating Users Arrays , It is Similar to Database 😇 
 
 const Users = [
-    new User(1,"Aravinda krishnan").setSub(true),
+    new User(1,"Aravinda krishnan"),
     new User(2,"Tony Stark"),
     new User(3,"Steve Rogers").setSub(true)
 ]
