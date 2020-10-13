@@ -82,6 +82,6 @@ function checkAccess(id : number){
 }
 
 //  checkAccess(<id>)
-checkAccess(2);
+checkAccess(1);
 
 // Output => Aravinda krishnan No Access for Pro Version ❌
