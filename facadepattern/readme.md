@@ -18,7 +18,7 @@ So params = {userId:1}
 
 Object.entries(params) will makes params as Array encloses the object / json [{userId : 1}]
 
-Then High Order Function MAP return the Array of key and value
+Then High Order Function MAP return the Array of key and value as `param`
 
 Example `[key , value]` => we have to form this structure
 
