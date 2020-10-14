@@ -1,5 +1,5 @@
 /*
-   🔥  Singleton Design Pattern
+    Singleton Design Pattern
 
             ✡ Singleton Pattern is just a way of creating Single
             Object.
